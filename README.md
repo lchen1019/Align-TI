@@ -59,7 +59,7 @@ Note: If the vision encoder is not downloaded automatically, you can manually ob
 
 
 ## 🏆 Acknowledgement
-Our model is related to [LLaVA-MoD](https://github.com/haotian-liu/LLaVA) and [LLaVA-KD](https://github.com/haotian-liu/LLaVA). Thanks for their great work! We also thank great previous work including [Qwen](https://huggingface.co/Qwen), [LLaVA](https://github.com/haotian-liu/LLaVA), [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM), [ShareGPT4V](https://github.com/ShareGPT4Omni/ShareGPT4V) etc.
+Our model is related to [LLaVA-MoD](https://github.com/shufangxun/LLaVA-MoD) and [LLaVA-KD](https://github.com/Fantasyele/LLaVA-KD). Thanks for their great work! We also thank great previous work including [Qwen](https://huggingface.co/Qwen), [LLaVA](https://github.com/haotian-liu/LLaVA), [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM), [ShareGPT4V](https://github.com/ShareGPT4Omni/ShareGPT4V) etc.
 
 ## 📚 Citation
 If you find our project useful for your research and applications, please star it and cite the paper using this BibTeX:
