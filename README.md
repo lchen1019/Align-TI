@@ -20,7 +20,7 @@ Multimodal Large Language Models (MLLMs) have demonstrated impressive cross-moda
 1. Create a conda environment with `Python 3.10` or higher.
 ```bash
 conda create -n alignti python==3.10
-conda activate
+conda activate alignti
 ```
 2. Install `torch`, We recommend installing `torch==2.5.1`.
 ```bash
