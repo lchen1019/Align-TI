@@ -1,9 +1,11 @@
 # <div align="center">Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions<div>
 <div align="center">
-<!-- [![arXiv](https://img.shields.io/badge/Arxiv-2408.15881-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2408.15881) -->
-  <a href="[https://arxiv.org/abs/2408.15881](https://arxiv.org/abs/2408.15881)"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:Align-TI&color=red&logo=arxiv"></a>
+  <div>
+  <a href="https://arxiv.org/abs/xxxx.xxxxxx"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:Align-TI&color=red&logo=arxiv"></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/collections/lchen1019/align-ti"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>&nbsp;&nbsp;
+  <a href="[https://arxiv.org/abs/2408.15881](https://arxiv.org/abs/2408.15881)"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow"></a>
+  </div>
   
-  [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/lchen1019/Align-TI/LICENSE)
 </div>
 
 
@@ -52,10 +54,10 @@ Note: If the vision encoder is not downloaded automatically, you can manually ob
 ## ▶️ Model Zoo
 | Model                  | GQA  | SQA  | TextVQA | POPE | MME  | MMB  | CKPT |
 | ---------------------- | ---- | ---- | ------- | ---- | ---- | ---- | ---- |
-| LlavaQwen2-Align-TI-2B | 62.9 | 71.4 | 65.1    | 86.1 | 75.6 | 71.8 |      |
-| LlavaQwen3-Align-TI-2B | 62.6 | 76.5 | 67.1    | 86.6 | 73.4 | 75.2 |      |
-| LlavaQwen2-Align-TI-1B | 60.4 | 60.7 | 59.9    | 86.8 | 68.9 | 63.2 | [here](https://huggingface.co/lchen1019/LlavaQwen2-Align-TI-1B)     |
-| LlavaQwen3-Align-TI-1B | 61.2 | 68.4 | 64.1    | 86.9 | 70.0 | 67.6 |      |
+| LlavaQwen2-Align-TI-2B | 62.9 | 71.4 | 65.1    | 86.1 | 75.6 | 71.8 | [ckpt](https://huggingface.co/lchen1019/LlavaQwen2-Align-TI-2B)          |
+| LlavaQwen3-Align-TI-2B | 62.6 | 76.5 | 67.1    | 86.6 | 73.4 | 75.2 | [ckpt](https://huggingface.co/lchen1019/LlavaQwen3-Align-TI-2B)          |
+| LlavaQwen2-Align-TI-1B | 60.4 | 60.7 | 59.9    | 86.8 | 68.9 | 63.2 | [ckpt](https://huggingface.co/lchen1019/LlavaQwen2-Align-TI-1B)     |
+| LlavaQwen3-Align-TI-1B | 61.2 | 68.4 | 64.1    | 86.9 | 70.0 | 67.6 | [ckpt](https://huggingface.co/lchen1019/LlavaQwen3-Align-TI-1B)          |
 
 
 ## 🏆 Acknowledgement
