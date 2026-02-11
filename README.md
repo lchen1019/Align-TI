@@ -1,9 +1,9 @@
 # <div align="center">Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions<div>
 <div align="center">
   <div>
-  <a href="https://arxiv.org/abs/xxxx.xxxxxx"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:Align-TI&color=red&logo=arxiv"></a>&nbsp;&nbsp;
+  <a href="http://arxiv.org/abs/2602.09483"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:Align-TI&color=red&logo=arxiv"></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/collections/lchen1019/align-ti"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a>&nbsp;&nbsp;
-  <a href="[https://arxiv.org/abs/2408.15881](https://arxiv.org/abs/2408.15881)"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow"></a>
+  <a href="[http://arxiv.org/abs/2602.09483]([https://arxiv.org/abs/2408.15881](http://arxiv.org/abs/2602.09483))"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow"></a>
   </div>
   
 </div>
@@ -66,11 +66,12 @@ Our model is related to [LLaVA-MoD](https://github.com/shufangxun/LLaVA-MoD) and
 ## 📚 Citation
 If you find our project useful for your research and applications, please star it and cite the paper using this BibTeX:
 ```BibTeX
-@article{chen2025alignkd,
-  title={Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions},
-  author={Chen, Lin and Zhao, Xiaoke and Ding, Kun and Feng, Weiwei and Miao, Changtao and Wang, Zili and Guowenxuan and Zheng, Kaiyuan and Zhang, Bo and Li, Zhe and Xiang, Shiming}
-  journal={arXiv preprint arXiv:24xx.xxxxxx},
-  year={2025}
+
+@article{chen2026alignti,
+      title={Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions}, 
+      author={Lin Chen and Xiaoke Zhao and Kun Ding and Weiwei Feng and Changtao Miao and Zili Wang and Wenxuan Guo and Ying Wang and Kaiyuan Zheng and Bo Zhang and Zhe Li and Shiming Xiang},
+      journal={arXiv preprint arXiv:2602.09483},
+      year={2026},
 }
 
 
